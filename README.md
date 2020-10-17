@@ -11,7 +11,7 @@
 * 🔧   Git
 * 🖥   Wordpress.org
 
-[![Ramom's github stats](https://github-readme-stats.vercel.app/api?username=Ramomjcs&hide=contribs,stars&show_icons=true&theme=onedark)]
+![Ramom's github stats](https://github-readme-stats.vercel.app/api?username=Ramomjcs&hide=contribs,stars&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
