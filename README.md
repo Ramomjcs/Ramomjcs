@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-asdf
 👨 💻 About Me
+• 🎓 Studying Information Systems at Federal Rural University of Semiarid.
+• 💻   Front end developer at Acelerabit.
+• 📘   Learning more about React Native.
+• 🎵   Lofi | Synthwave | Vaporwave | Future Funk
+• 🎮   League of Legends | Ragnarok
+• ❤️   JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate
+🛠 Tech Stack
+• 🌐   Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
+• 🛢   MySQL | MongoDB | SQlite3
+• 🔧   Git
+• 🖥   Figma | Photoshop
