@@ -26,11 +26,10 @@
 
 <p align="center">
 <a href="https://mannoeu-about-me.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mannoeu-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/emmanuel-messias-535621127/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Messias%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/manno_eu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-manno__eu-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:emmanuel_costasilva@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmanuel__costasilva@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ramom-santos-738078174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramom%20Santos%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ramom1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ramom1999@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center">
-<img height="180em" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Levi Ackerman" />
+<img height="180em" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Hacker Man" />
 </p>
