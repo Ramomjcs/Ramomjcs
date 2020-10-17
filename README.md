@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://ramom.com.br/eu"><img alt="Website" src="https://img.shields.io/badge/Website-ramom.com.br-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ramom-santos-738078174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ramom%20Santos%20-black?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ramom1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ramom1999@gmail.com-black?style=flat-square&logo=gmail"></a>
+<a href="mailto:contato@ramom.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-contato@ramom.com.br-black?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center">
