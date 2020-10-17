@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Science Computer at Federal University of Pernambuco.
 - 💻 &nbsp; Front end developer and Web Designer at Accelera Vendas.
-- 📘 &nbsp; Blog writer <a href="ramom.com.br">ramom.com.br</a>
+- 📘 &nbsp; Blog writer on my website <a href="ramom.com.br">ramom.com.br</a>
 - 📘 &nbsp; Learning more about React and NodeJS.
 
 
