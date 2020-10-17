@@ -2,12 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Information Systems at Federal Rural University of Semiarid.
-- 💻 &nbsp; Front end developer at Acelerabit.
-- 📘 &nbsp; Learning more about React Native.
-- 🎵 &nbsp; Lofi | Synthwave | Vaporwave | Future Funk
-- 🎮 &nbsp; League of Legends | Ragnarok
-- ❤️ &nbsp; JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate
+- 🎓 &nbsp; Studying Science Computer at Federal University of Pernambuco.
+- 💻 &nbsp; Front end developer and Web Designer at Accelera Vendas.
+- 📘 &nbsp; Blog writer <a href="ramom.com.br">ramom.com.br</a>
+- 📘 &nbsp; Learning more about React and NodeJS.
+
 
 <h3>🛠 Tech Stack</h3>
 
