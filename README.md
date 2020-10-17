@@ -31,5 +31,10 @@
 </p>
 
 <p align="center">
-<img height="180em" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Hacker Man" />
+<img height="180em" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hacker Man" />
 </p>
+
+<!-- 
+GIF: Boneco teclando: https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
+https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif
+-->
