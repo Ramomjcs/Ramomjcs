@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Emmanuel.</h2>
+<h2> Hey there! I'm Ramom.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,15 +11,15 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
-- 🛢 &nbsp; MySQL | MongoDB | SQlite3
+- 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; Git
-- 🖥 &nbsp; Figma | Photoshop
+- 🖥 &nbsp; Wordpress
 
 <br/>
 
-<a href="https://github.com/mannoeu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannoeu&theme=synthwave&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannoeu&theme=synthwave&layout=compact" />
+<a href="https://github.com/Ramomjcs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramomjcs&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&theme=synthwave&layout=compact" />
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
