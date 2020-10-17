@@ -30,9 +30,9 @@
 <a href="mailto:contato@ramom.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-contato@ramom.com.br-black?style=flat-square&logo=gmail"></a>
 </p>
 
-<p align="center">
+<!--<p align="center">
 <img height="180em" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hacker Man" />
-</p>
+</p>-->
 
 <!-- 
 GIF: Boneco teclando: https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
