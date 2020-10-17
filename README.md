@@ -18,8 +18,8 @@
 <br/>
 
 <a href="https://github.com/Ramomjcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramomjcs&theme=synthwave&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&theme=synthwave&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramomjcs&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&theme=merko&layout=compact" />
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
