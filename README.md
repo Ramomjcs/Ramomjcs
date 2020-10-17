@@ -1,7 +1,7 @@
 ### Hey there! I'm Ramom. 👋
 
 
-<h3> 👨‍💻  About Me</h3>
+👨‍💻  About Me
 * 🎓   Studying Science Computer at Federal University of Pernambuco.
 * 💻   Front end developer and Web Designer at Accelera Vendas.
 * 📘   Learning more about React.
