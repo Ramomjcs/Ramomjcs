@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👨 💻 About Me
-• 🎓   Studying Science Computer at Federal University of Pernambuco.
+* 🎓   Studying Science Computer at Federal University of Pernambuco.
 <br />
 • 💻   Front end developer and Web Designer at Accelera Vendas.
 <br />
