@@ -17,17 +17,10 @@ Here are some ideas to get you started:
 
 👨 💻 About Me
 * 🎓   Studying Science Computer at Federal University of Pernambuco.
-<br />
-• 💻   Front end developer and Web Designer at Accelera Vendas.
-<br />
-• 📘   Learning more about React.
-<br />
+* 💻   Front end developer and Web Designer at Accelera Vendas.
+* 📘   Learning more about React.
 🛠 Tech Stack
-<br />
-• 🌐   Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
-<br />
-• 🛢   MySQL | MongoDB 
-<br />
-• 🔧   Git
-<br />
-• 🖥   Figma | Photoshop
+* 🌐   Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
+* 🛢   MySQL | MongoDB 
+* 🔧   Git
+* 🖥   Figma | Photoshop
