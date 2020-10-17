@@ -16,14 +16,18 @@ Here are some ideas to get you started:
 -->
 
 👨 💻 About Me
-• 🎓 Studying Information Systems at Federal Rural University of Semiarid.
-• 💻   Front end developer at Acelerabit.
-• 📘   Learning more about React Native.
-• 🎵   Lofi | Synthwave | Vaporwave | Future Funk
-• 🎮   League of Legends | Ragnarok
-• ❤️   JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate
+• 🎓   Studying Science Computer at Federal University of Pernambuco.
+<br />
+• 💻   Front end developer and Web Designer at Accelera Vendas.
+<br />
+• 📘   Learning more about React.
+<br />
 🛠 Tech Stack
+<br />
 • 🌐   Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
-• 🛢   MySQL | MongoDB | SQlite3
+<br />
+• 🛢   MySQL | MongoDB 
+<br />
 • 🔧   Git
+<br />
 • 🖥   Figma | Photoshop
