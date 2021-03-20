@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
-- 💻 &nbsp; Front-End Developer and Web Designer at Accelera Vendas.
+- 💻 &nbsp; Front-End Developer and Web Designer
 - ✏ &nbsp; Blog writer on my website <a href="ramom.com.br">ramom.com.br</a>.
 - 📚 &nbsp; Learning more about React and NodeJS.
 - 🎹 &nbsp; Music Lover | Pianist | Guitar Player
