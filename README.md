@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
+- 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Learning NodeJS and Typescript
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; Git
 - 🖥 &nbsp; Wordpress
