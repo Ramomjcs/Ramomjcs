@@ -5,14 +5,14 @@
 - 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
 - 💻 &nbsp; Front-End Developer and Web Designer
 - ✏ &nbsp; Blog writer on my website <a href="ramom.com.br">ramom.com.br</a>.
-- 📚 &nbsp; Learning more about React and NodeJS.
+- 📚 &nbsp; Learning more about AWS and NestJS.
 - 🎹 &nbsp; Music Lover | Pianist | Guitar Player
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript | HTML | CSS | AngularJS | Java | ReactJS | NodeJS | Typescript
-- 🛢 &nbsp; MySQL | MongoDB 
-- 🔧 &nbsp; Git | SVN | GitFlow
+- 🌐 &nbsp; Javascript | HTML | CSS | Angular | Java | ReactJS | NodeJS | Typescript
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+- 🔧 &nbsp; Git | Gitlab | SVN | GitFlow
 - 🖥 &nbsp; Wordpress
 
 <br/>
