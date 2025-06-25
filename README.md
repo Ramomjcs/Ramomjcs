@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
-- 💻 &nbsp; Front-End Developer and Web Designer
+- 🎓 &nbsp; Graduated in Computer Science from the Federal University of Pernambuco (UFPE).
+- 💻 &nbsp; Fullstack Developer and Web Designer
 - ✏ &nbsp; Blog writer on my website <a href="ramom.com.br">ramom.com.br</a>.
 - 📚 &nbsp; Learning more about AWS and NestJS.
 - 🎹 &nbsp; Music Lover | Pianist | Guitar Player
